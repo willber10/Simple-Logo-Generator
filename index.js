@@ -2,7 +2,9 @@ const { Circle, Square, Triangle } = require('./lib/shapes.js');
 
 const fs = require('fs');
 
-let circle = new Circle();
+const inquirer = require('inquirer');
+
+let circle = new Circle("red");
 let square = new Square();
 let triangle = new Triangle();
 
