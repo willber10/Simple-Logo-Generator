@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/willber10/Simple-Logo-Generator#readme",
   "dependencies": {
-    "inquirer": "^9.2.12",
+    "inquirer": "^8.2.6",
     "jest": "^29.7.0"
   }
 }
