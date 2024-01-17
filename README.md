@@ -36,3 +36,11 @@ I worked on this project with my fellow classmates Chase Seeberger and Shelby Hu
 
 https://github.com/willber10/Simple-Logo-Generator
 
+## Walkthrough
+
+https://drive.google.com/file/d/1jWjDo4vLKfBiqch0rn0Mzy9CBC2zqHfI/view
+
+## Questions
+
+With any questions feel free to reach out at Willberschickler@gmail.com
+
